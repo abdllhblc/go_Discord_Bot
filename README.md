@@ -1,3 +1,3 @@
 # go_Discord_Bot
 
-discord bot written with go
+Discord bot written with go
